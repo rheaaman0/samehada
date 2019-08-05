@@ -9,7 +9,7 @@ $ cat ${name}.html | grep img | grep -Po 'largeimg" href="\K.*?(?=")' | sed 's/\
 ```  
 or  
 ```sh
-$ ./yandere.sh
+$ ./yandere.sh #chmod +x if necessary
 ```  
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
