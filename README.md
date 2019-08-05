@@ -4,9 +4,12 @@ mass yande.re stealer
 
 ![](https://1.bp.blogspot.com/-fIfEmdtv-GI/XUdOAc8Et4I/AAAAAAAAJmU/InyiZ1lRIHsZ7pGhBnjapfTt5BG_FBVEACEwYBhgL/s1600/Screenshot_56.png)  
 
-```bash
-cat ${name}.html | grep img | grep -Po 'largeimg" href="\K.*?(?=")' | sed 's/\?.*//' > result/links.txt; 
+```sh
+$ cat ${name}.html | grep img | grep -Po 'largeimg" href="\K.*?(?=")' | sed 's/\?.*//' > result/links.txt;
+```  
+or  
+```sh
 $ ./yandere.sh
-```
+```  
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
