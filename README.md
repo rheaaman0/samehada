@@ -1,18 +1,16 @@
-# Nhentai.sh
-![](https://img.shields.io/badge/codename-nhentai-hotpink)  
-bash nhentai stealer  
+# Hitomi stealer
+Hitomi.la downloader using bash and some binnary for Windows  
 
-![](https://1.bp.blogspot.com/-_nc5w76xI_Q/XUjMpitFwgI/AAAAAAAAJm0/IDyeJIRT4yc7L7qQJPL94zCAOH1AgnfygCLcBGAs/s1600/Screenshot_61.png)  
+Get started
+----
+ **clone local binnary**
+
+     $ mv  -v ~/src/* ~/usr/local/bin/rubishword
+
+![](https://1.bp.blogspot.com/-yukeSOOTtQM/XUsn1tiIvxI/AAAAAAAAJnU/6ZvoEjkI5zYokQ9cv1MB-V8oaEAuX-i3QCLcBGAs/s1600/Screenshot_65.png)  
 
 ```sh
-$ ./nhen.sh #chmod +x if necessary
-```  
-
-### result
-```sh
-mkdir $kode
-cat ${kode}.html 
-# directly mkdir as your put code like /177013
+$ ./hit.sh #chmod +x if necessary
 ```  
 
 ## License
