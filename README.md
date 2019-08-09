@@ -1,17 +1,19 @@
-# Hitomi stealer
-Hitomi.la downloader using bash and some binnary for Windows  
+# h2rwinsh
+bash https://hentai2read.com downloader and using binary c wget for windows
 
 Get started
 ----
- **clone local binnary**
+putt /bin in your local bin
 
-     $ mv  -v ~/src/* ~/usr/local/bin/rubishword
+     $ mv  -v ~/bin* ~/usr/local/bin/rubbishword  
 
-![](https://1.bp.blogspot.com/-yukeSOOTtQM/XUsn1tiIvxI/AAAAAAAAJnU/6ZvoEjkI5zYokQ9cv1MB-V8oaEAuX-i3QCLcBGAs/s1600/Screenshot_65.png)  
-
+## usage
+![](https://1.bp.blogspot.com/-Rv5kzibe_o8/XU3SRZvCD_I/AAAAAAAAJoI/-DIkfJp1prkjUw_ImmFNfnziKVmN3ML8QCLcBGAs/s1600/Screenshot_70.png)
 ```sh
-$ ./hit.sh #chmod +x if necessary
+$ ./hentai.sh #chmod +x if necessary
 ```  
-
+```php
+# ie: hentai2read.com/lewd_inuyamasenpai/1/ | just type "lewd_inuyamasenpai/1/"
+```
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
